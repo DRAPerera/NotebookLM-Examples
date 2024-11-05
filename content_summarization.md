@@ -37,6 +37,6 @@ The Victorian Government is undertaking a multi-pronged approach to address the 
 
 In conclusion, the Victorian Government is committed to working alongside farmers and industry stakeholders to address the complexities of climate change in agriculture. Through a combination of research, innovation, support programs, and adaptation strategies, the government aims to build a more sustainable and resilient agricultural sector in the face of climate change.
 
-## Evidence
+## Screenshot
 
 ![summarization](link_to_summarization.png)
