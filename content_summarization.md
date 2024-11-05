@@ -39,4 +39,5 @@ In conclusion, the Victorian Government is committed to working alongside farmer
 
 ## Screenshot
 
+![summarization](link_to_upload.png)
 ![summarization](link_to_summarization.png)
