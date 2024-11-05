@@ -72,6 +72,6 @@ For this demonstration, the article outlines the Victorian Government's strategy
 
 This mind map visually represents the main ideas and connections within the provided sources about agriculture and climate change in Victoria. It highlights the impacts of climate change, the role of agriculture in emissions, the government's response, and the strategies for adaptation and mitigation. The mind map also underscores the goals of achieving net-zero emissions, building climate resilience, and ensuring the sustainability of Victorian agriculture.
 
-## Evidence
+## Screenshot
 
 ![Contextualized Note-Taking](link_to_contextualized_Note_Taking.png)
