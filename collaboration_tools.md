@@ -34,16 +34,12 @@ Collaborative learning enables students to work together to enhance understandin
 5. **Finalizing Notes**:
    - Compiled the organized notes into a structured document for submission, ensuring all sections were coherent and informative.
 
+
 ## Results
 - The collaborative efforts led to a comprehensive set of structured notes that included key themes and resources related to climate change and agriculture.
 - NotebookLM facilitated seamless communication and feedback, improving the overall quality of the notes.
 - The final document was well-organized, highlighting important concepts and providing references back to the original materials.
 
-### Key Themes Identified
-- Climate Change Impacts on Agriculture
-- Emissions Reduction Strategies
-- Climate Adaptation Techniques
-- Government Policies and Support Systems
 
 ## Screenshots
 Here are some screenshots demonstrating the collaboration process in NotebookLM:
