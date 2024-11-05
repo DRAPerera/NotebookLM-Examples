@@ -35,3 +35,11 @@ The Victorian Government's strategy addresses climate change in agriculture, aim
 
   The sources provided do not contain information about how governments support farmers in reducing emissions. The study focuses on the impact of climate change on global agriculture, particularly examining the effects on water availability, crop production, and economic welfare. The study analyzes how climate change affects farmers but does not explore government policies aimed at supporting farmers in reducing emissions. 
 
+
+## Screenshot
+
+![Question_Answering](link_to_Question_Answering1.png)
+
+![Question_Answering](link_to_Question_Answering2.png)
+
+![Question_Answering](link_to_Question_Answering3.png)
