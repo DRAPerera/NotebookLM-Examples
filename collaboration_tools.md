@@ -1,4 +1,4 @@
-# NotebookLM Collaborative Learning Support Demonstration
+# NotebookLM Collaborative Learning Support
 
 ## Overview
 This repository showcases the capabilities of NotebookLM in facilitating collaborative learning. The demonstration is based on a group project focused on "Agriculture and Climate Change" in Victoria, utilizing NotebookLM to enhance collaboration, note-taking, and resource sharing among team members.
