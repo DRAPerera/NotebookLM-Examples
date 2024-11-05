@@ -1,6 +1,6 @@
 # Contextualized Note-Taking with NotebookLM
 
-This document provides an example of how NotebookLM can facilitate contextualized note-taking by creating structured notes based on a summary of the article "Agriculture and climate change - Agriculture Victoria" by the Department of Jobs, P. and R. (2021).
+This document provides an example of how NotebookLM can facilitate contextualized note-taking by creating structured notes based on the article "Agriculture and climate change - Agriculture Victoria" by the Department of Jobs, P. and R. (2021).
 
 ## Example Document
 
