@@ -5,7 +5,6 @@ This document demonstrates NotebookLM’s content summarization capabilities wit
 ## Example Document
 
 For this test, I used an article titled **"Agriculture and climate change - Agriculture Victoria."** by Department of Jobs, P. and R. (2021, May 2)
-Department of Jobs, P. and R. (2021, May 2). 
 https://agriculture.vic.gov.au/climate-and-weather/policy-programs-action
 ‌
 
