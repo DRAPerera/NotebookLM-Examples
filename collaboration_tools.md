@@ -23,8 +23,9 @@ Collaborative learning enables students to work together to enhance understandin
 
 3. **Note-Taking and Collaboration**:
    - Used NotebookLM's collaborative features to take notes in real-time during discussions.
-   - Members tagged important concepts and linked related resources.
-   - Established a tagging system to categorize notes (e.g., "Policy", "Emissions", "Adaptation").
+   - Each user has their own chat threads that can be used simultaneously
+   - They can write there own ideas, pose questions, summarise key findings etc. and save them to the Notebook workspace
+   - This allows everyone to leverage same knowledge base of content
 
 4. **Review and Feedback**:
    - After initial note-taking, the group reviewed each other's contributions and provided feedback directly within NotebookLM.
@@ -48,13 +49,13 @@ Collaborative learning enables students to work together to enhance understandin
 Here are some screenshots demonstrating the collaboration process in NotebookLM:
 
 1. **Inviting team members to join the workspace**:
-   ![Inviting team members](link_to_your_screenshot_1.png)
+   ![Inviting team members](link_to_inviting.png)
 
 2. **Real-time Note-Taking**:
-   ![Real-time Note-Taking](link_to_your_screenshot_2.png)
+   ![Real-time Note-Taking](link_to_Note_Taking.png)
 
-3. **Feedback and Review Comments**:
-   ![Feedback and Review Comments](link_to_your_screenshot_3.png)
+3. **Workspace**:
+   ![Workspace](link_to_workspace.png)
 
 4. **Final Organized Notes**:
-   ![Final Organized Notes](link_to_your_screenshot_4.png)
+   ![Final Organized Notes](link_to_Final.png)
